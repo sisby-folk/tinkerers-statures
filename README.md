@@ -8,6 +8,8 @@ This mod:
 
 ![screenshot](https://user-images.githubusercontent.com/55819817/174215100-2b630688-8ef5-4429-b82e-9516c132915a.png)
 
+Requires [Origins](https://modrinth.com/mod/origins) and [Pehkui](https://modrinth.com/mod/pehkui)
+
 If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources/data/tinkerers_statures) (Direct Download Link)
 
 ## Further Info
