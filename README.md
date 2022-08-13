@@ -1,5 +1,7 @@
 # Tinkerer's Statures
 
+Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character.
+
 ---
 
 This mod:
