@@ -1,0 +1,40 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "folk.sisby",
+		"id": "tinkerers-statures",
+		"version": "${version}",
+		"metadata": {
+			"name": "Tinkerer's Statures",
+			"description": "Adds 'statures' to origins. Allows picking from preset of sizes when creating your character.",
+			"contributors": {
+				"Sisby Folk": "Owner"
+			},
+			"contact": {
+				"homepage": "https://modrinth.com/mod/tinkerers-statures",
+				"issues": "https://github.com/sisby-folk/tinkerers-statures/issues",
+				"sources": "https://github.com/sisby-folk/tinkerers-statures"
+			},
+			"icon": "assets/tinkerers_statures/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.16.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.15"
+			},
+			{
+				"id": "origins",
+				"versions": ">=1.4"
+			},
+			{
+				"id": "pehkui",
+				"versions": ">=3.3"
+			}
+		]
+	}
+}
