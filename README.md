@@ -14,8 +14,12 @@ Requires [Origins](https://modrinth.com/mod/origins) and [Pehkui](https://modrin
 
 If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources) (Direct Download Link)
 
+Have fun building new door sizes! (have you tried [halfdoors](https://modrinth.com/mod/half-doors) or [dramatic doors](https://modrinth.com/mod/dramatic-doors)?)
+
 ## Further Info
 
 All modding projects are built on the work of many others.
+
+We made this mod for [Tinkerer's Quilt](https://modrinth.com/modpack/tinkerers-quilt)! Our modpack about ease of play and expressiveness.
 
 We're primarily modpack developers - not mod developers! If you want to port this mod, do it yourself!
