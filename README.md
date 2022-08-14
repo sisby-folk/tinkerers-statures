@@ -12,7 +12,7 @@ This mod:
 
 Requires [Origins](https://modrinth.com/mod/origins) and [Pehkui](https://modrinth.com/mod/pehkui)
 
-If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources/data/tinkerers_statures) (Direct Download Link)
+If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources) (Direct Download Link)
 
 ## Further Info
 
