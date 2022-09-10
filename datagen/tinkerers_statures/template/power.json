@@ -13,7 +13,11 @@
 		},
 		{
 			"type": "origins:execute_command",
-			"command": "scale persist set true @s"
+			"command": "scale persist set pehkui:height true @s"
+		},
+		{
+			"type": "origins:execute_command",
+			"command": "scale persist set pehkui:width true @s"
 		}
 		]
     },
