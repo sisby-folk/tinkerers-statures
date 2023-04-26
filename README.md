@@ -1,6 +1,13 @@
-# Tinkerer's Statures
+<center><img style="max-width:1056px" alt="tinkerer's statures banner" src="https://user-images.githubusercontent.com/55819817/174215100-2b630688-8ef5-4429-b82e-9516c132915a.png" /></center>
 
-Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character.
+<center>Allows selecting a <span style="font-style: italic">Stature</span> (height/size) on character creation</center>
+<center>Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>
+</center>
+
+---
+
+<center><b>Packs:</b> <a href="https://modrinth.com/modpack/tinkerers-quilt">Tinkerer's Quilt</a> (<a href="https://modrinth.com/modpack/tinkerers-silk">Silk</a>) - <a href="https://modrinth.com/modpack/switchy-pack">Switchy Pack</a></center>
+<center><b>Mods:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <a href="https://modrinth.com/mod/tinkerers-statures">Origins Minus</a> (<i>Statures</i>) - <a href="https://modrinth.com/mod/tinkerers-smithing">Tinkerer's Smithing</a></center>
 
 ---
 
@@ -8,9 +15,6 @@ This mod:
 - Adds a new origins layer, allowing you to add or override player size from a selection of presets
   - Each preset has dimension information, flavour text, and item-icons inspired by *Alice in Wonderland*
 
-![screenshot](https://user-images.githubusercontent.com/55819817/174215100-2b630688-8ef5-4429-b82e-9516c132915a.png)
-
-Requires [Origins](https://modrinth.com/mod/origins) and [Pehkui](https://modrinth.com/mod/pehkui)
 
 If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources) (Direct Download Link)
 
@@ -18,8 +22,8 @@ Have fun building new door sizes! (have you tried [halfdoors](https://modrinth.c
 
 ## Further Info
 
-All modding projects are built on the work of many others.
+All mods are built on the work of many others.
 
 We made this mod for [Tinkerer's Quilt](https://modrinth.com/modpack/tinkerers-quilt)! Our modpack about ease of play and expressiveness.
 
-We're primarily modpack developers - not mod developers! If you want to port this mod, do it yourself!
+We're open to suggestions for how to implement stuff better - if you see something wonky and have an idea - let us know.
