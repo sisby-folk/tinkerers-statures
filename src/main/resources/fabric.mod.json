@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "tinkerers-statures",
+  "version": "${version}",
+  "name": "Tinkerer's Statures",
+  "description": "Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character.",
+  "authors": [
+    "Sisby folk"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/tinkerers-statures",
+    "issues": "https://github.com/sisby-folk/tinkerers-statures/issues",
+    "sources": "https://github.com/sisby-folk/tinkerers-statures"
+  },
+  "icon": "assets/tinkerers_statures/icon.png",
+  "license": "LGPL-3.0-only",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": ">=1.15",
+    "origins": ">=1.4",
+    "pehkui": ">=3.3"
+  }
+}

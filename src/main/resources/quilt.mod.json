@@ -20,12 +20,12 @@
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"depends": [
 			{
-				"id": "quilt_loader",
-				"versions": ">=0.16.0-"
-			},
-			{
 				"id": "minecraft",
 				"versions": ">=1.15"
+			},
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.16.0-"
 			},
 			{
 				"id": "origins",
