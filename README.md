@@ -1,7 +1,8 @@
+<!--suppress XmlDeprecatedElement, HtmlDeprecatedTag -->
 <center><img alt="tinkerer's statures banner" src="https://user-images.githubusercontent.com/55819817/174215100-2b630688-8ef5-4429-b82e-9516c132915a.png" /></center>
 
 <center>Select a player size using origins.</center>
-<center>Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>
+<center>Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>.
 </center>
 
 ---
