@@ -17,7 +17,7 @@ This mod:
   - Each preset has dimension information, flavour text, and item-icons inspired by *Alice in Wonderland*
 
 
-If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/main/src/main/resources) (Direct Download Link)
+If you'd prefer the datapack version for any reason, you can [download it from the repo](https://download-directory.github.io/?url=https://github.com/sisby-folk/tinkerers-statures/tree/1.19/src/main/resources) (Direct Download Link)
 
 Have fun building new door sizes! (have you tried [halfdoors](https://modrinth.com/mod/half-doors) or [dramatic doors](https://modrinth.com/mod/dramatic-doors)?)
 
