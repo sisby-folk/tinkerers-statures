@@ -7,8 +7,8 @@ issueTrackerURL = 'https://github.com/sisby-folk/tinkerers-statures/issues'
 [[mods]]
 modId = 'tinkerers_statures'
 version = '${version}'
-displayName = 'Tinkerer\'s Statures'
-description = 'Adds \'statures\' to origins, allowing players to pick from preset of sizes when creating their character.'
+displayName = "Tinkerer's Statures"
+description = "Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character."
 logoFile = 'assets/tinkerers_statures/icon.png'
 authors = 'Sisby folk'
 displayURL = 'https://modrinth.com/mod/tinkerers-statures'
