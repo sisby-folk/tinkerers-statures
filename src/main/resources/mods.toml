@@ -1,0 +1,31 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'LGPL-3.0-only'
+showAsResourcePack = false
+issueTrackerURL = 'https://github.com/sisby-folk/tinkerers-statures/issues'
+
+[[mods]]
+modId = 'tinkerers_statures'
+version = '${version}'
+displayName = 'Tinkerer\'s Statures'
+description = 'Adds \'statures\' to origins, allowing players to pick from preset of sizes when creating their character.'
+logoFile = 'assets/tinkerers_statures/icon.png'
+authors = 'Sisby folk'
+displayURL = 'https://modrinth.com/mod/tinkerers-statures'
+
+[[dependencies.tinkerers_statures]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[${mc},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tinkerers_statures]]
+modId = "origins"
+mandatory = true
+versionRange = "*"
+
+[[dependencies.tinkerers_statures]]
+modId = "pehkui"
+mandatory = true
+versionRange = "*"
