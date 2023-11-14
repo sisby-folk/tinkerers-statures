@@ -1,0 +1,8 @@
+{
+	"name": "Unaffected",
+	"description": "The default size of your chosen origin!",
+	"icon": "minecraft:glass_bottle",
+	"impact": 0,
+	"order": 10000,
+	"powers": []
+}

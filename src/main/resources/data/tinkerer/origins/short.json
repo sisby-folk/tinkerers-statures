@@ -1,7 +1,7 @@
 {
 	"name": "Short",
 	"description": "\u00a7oIt's a bit drafty actually.",
-	"icon": "minecraft:experience_bottle",
+	"icon": "minecraft:splash_potion",
 	"impact": 0,
 	"order": 500,
 	"powers": [

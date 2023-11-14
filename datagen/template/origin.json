@@ -1,0 +1,10 @@
+{
+	"name": "{}",
+	"description": "{}",
+	"icon": "{}",
+	"impact": 0,
+	"order": 0,
+	"powers": [
+		"tinkerer:{}"
+	]
+}

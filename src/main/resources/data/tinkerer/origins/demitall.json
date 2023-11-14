@@ -1,7 +1,7 @@
 {
 	"name": "Demi-Tall",
 	"description": "Half-Tall",
-	"icon": "minecraft:cookie",
+	"icon": "minecraft:carrot",
 	"impact": 0,
 	"order": 700,
 	"powers": [

@@ -1,0 +1,10 @@
+{
+	"name": "Lanky",
+	"description": "Tall-Height",
+	"icon": "minecraft:golden_apple",
+	"impact": 0,
+	"order": 810,
+	"powers": [
+		"tinkerer:lanky"
+	]
+}

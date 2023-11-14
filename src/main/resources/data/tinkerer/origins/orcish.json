@@ -1,7 +1,7 @@
 {
 	"name": "Orcish",
 	"description": "\u00a7oIntimidated?",
-	"icon": "minecraft:mushroom_stew",
+	"icon": "minecraft:suspicious_stew",
 	"impact": 1,
 	"order": 1010,
 	"powers": [

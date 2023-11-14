@@ -1,0 +1,19 @@
+id,name,description,icon,adjective,height,width
+sized,Sized,§oThis is fine too.,minecraft:milk_bucket,average sized,1,1
+hemidemishort,HemiDemi-Short,1/4 Short,minecraft:lingering_potion,ever-so-slightly short,0.95,0.95
+demishort,Demi-Short,Half-Short,minecraft:potion,a bit short,0.9,0.9
+demistout,Demi-Stout,Half-Short-Height,minecraft:honey_bottle,a bit short and stout,0.9,1
+semishort,Semi-Short,3/4 Short,minecraft:dragon_breath,quite short,0.85,0.85
+short,Short,§oIt's a bit drafty actually.,minecraft:splash_potion,very short,0.8,0.8
+stout,Stout,Short-Height,minecraft:experience_bottle,short and stout,0.8,1
+impish,Impish,1.5x Short,minecraft:water_bucket,impishly short,0.66,0.66
+demitall,Demi-Tall,Half-Tall,minecraft:carrot,slightly taller than average,1.05,1.05
+demilanky,Demi-Lanky,Half-Tall-Height,minecraft:golden_carrot,a little tall and slight,1.05,1
+tall,Tall,§oHow's the weather down there?,minecraft:apple,taller than average,1.1,1.1
+lanky,Lanky,Tall-Height,minecraft:golden_apple,tall and slight,1.1,1
+taller,Taller,§oHow's the weather down §nthere§r§o?,minecraft:bread,tall,1.2,1.2
+tallest,Tallest,§oWatch your head.,minecraft:mushroom_stew,extremely tall,1.33,1.33
+orcish,Orcish,§oIntimidated?,minecraft:suspicious_stew,larger and broader,1.33,1.56
+oversize1,Oversize,§oNeat.,minecraft:pumpkin_pie,oversized,1.62,1.62
+oversize2,Oversize II,§oSheesh.,minecraft:cake,very oversized,1.92,1.92
+oversize3,Oversize III,§oYikes.,minecraft:hay_block,extremely oversized,2.2,2.2

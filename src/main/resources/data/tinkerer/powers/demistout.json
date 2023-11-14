@@ -1,0 +1,30 @@
+{
+	"name": "Demi-Stout",
+	"description": "You're a bit short and stout (90%)!\nHeight: 1.7 Blocks\nSneak Height: 1.4 Blocks\nWidth: 0.6 Blocks",
+	"type": "origins:action_on_callback",
+	"entity_action_chosen": {
+		"type": "origins:and",
+		"actions": [
+			{
+				"type": "origins:execute_command",
+				"command": "scale set pehkui:height 0.9 @s"
+			},
+			{
+				"type": "origins:execute_command",
+				"command": "scale set pehkui:width 1 @s"
+			},
+			{
+				"type": "origins:execute_command",
+				"command": "scale persist set pehkui:height true @s"
+			},
+			{
+				"type": "origins:execute_command",
+				"command": "scale persist set pehkui:width true @s"
+			}
+		]
+	},
+	"entity_action_lost": {
+		"type": "origins:execute_command",
+		"command": "scale reset @s"
+	}
+}

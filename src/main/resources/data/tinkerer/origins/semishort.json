@@ -1,7 +1,7 @@
 {
 	"name": "Semi-Short",
 	"description": "3/4 Short",
-	"icon": "minecraft:splash_potion",
+	"icon": "minecraft:dragon_breath",
 	"impact": 0,
 	"order": 400,
 	"powers": [

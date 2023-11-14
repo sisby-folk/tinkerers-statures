@@ -1,0 +1,10 @@
+{
+	"name": "Demi-Lanky",
+	"description": "Half-Tall-Height",
+	"icon": "minecraft:golden_carrot",
+	"impact": 0,
+	"order": 710,
+	"powers": [
+		"tinkerer:demilanky"
+	]
+}

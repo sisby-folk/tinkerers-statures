@@ -1,0 +1,10 @@
+{
+	"name": "Demi-Stout",
+	"description": "Half-Short-Height",
+	"icon": "minecraft:honey_bottle",
+	"impact": 0,
+	"order": 310,
+	"powers": [
+		"tinkerer:demistout"
+	]
+}
