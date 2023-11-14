@@ -1,10 +1,10 @@
 {
-    "description": "'Yikes.'\nMajor gameplay impact.",
-    "icon": "minecraft:hay_block",
-    "impact": 0,
-    "name": "Oversize III",
-    "order": 0,
-    "powers": [
-        "tinkerer:oversize3"
-    ]
+	"name": "Oversize III",
+	"description": "'Yikes.'\\nMajor gameplay impact.",
+	"icon": "minecraft:hay_block",
+	"impact": 0,
+	"order": 0,
+	"powers": [
+		"tinkerer:oversize3"
+	]
 }

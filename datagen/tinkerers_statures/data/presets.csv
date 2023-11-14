@@ -1,15 +1,15 @@
 id,name,description,icon,adjective,descheight,descsneak,descwidth,height,width
-demishort,Demi-Short,Half-Short,minecraft:honey_bottle,a bit short,1.6,1.4,0.5,0.9,0.9
-demitall,Demi-Tall,Half-Tall,minecraft:cookie,slightly taller than average,1.9,1.6,0.6,1.05,1.05
+sized,Sized,\'This is fine too.\',minecraft:milk_bucket,average sized,1.8,1.5,0.6,1,1
 hemidemishort,HemiDemi-Short,1/4 Short,minecraft:potion,ever-so-slightly short,1.7,1.5,0.6,0.95,0.95
-impish,Impish,1.5x Short\nMinor gameplay impact.,minecraft:water_bucket,impishly short,1.3,1,0.4,0.66,0.66
-oversize1,Oversize,'Neat.'\nMedium gameplay impact.,minecraft:pumpkin_pie,oversized,3,2.5,1,1.62,1.62
-oversize2,Oversize II,'Sheesh.'\nMajor gameplay impact.,minecraft:cake,very oversized,3.5,3,1.2,1.92,1.92
-oversize3,Oversize III,'Yikes.'\nMajor gameplay impact.,minecraft:hay_block,extremely oversized,4,3.5,1.3,2.2,2.2
+demishort,Demi-Short,Half-Short,minecraft:honey_bottle,a bit short,1.6,1.4,0.5,0.9,0.9
 semishort,Semi-Short,3/4 Short,minecraft:splash_potion,quite short,1.6,1.3,0.5,0.85,0.85
 short,Short,\'It\'s a bit drafty actually.\',minecraft:experience_bottle,very short,1.5,1.2,0.6,0.8,0.8
-sized,Sized,\'This is fine too.\',minecraft:milk_bucket,average sized,1.8,1.5,0.6,1,1
+impish,Impish,1.5x Short\nMinor gameplay impact.,minecraft:water_bucket,impishly short,1.3,1,0.4,0.66,0.66
+demitall,Demi-Tall,Half-Tall,minecraft:cookie,slightly taller than average,1.9,1.6,0.6,1.05,1.05
 tall,Tall,\'How\'s the weather down there?\',minecraft:apple,taller than average,2,1.7,0.7,1.1,1.1
 taller,Taller,'How's the weather down *there*?'\nMinor gameplay impact.,minecraft:bread,tall,2.2,1.8,0.7,1.2,1.2
 tallest,Tallest,'Watch your head.'\nMinor gameplay impact.,minecraft:mushroom_stew,extremely tall,2.4,2,0.8,1.33,1.33
 orcish,Orcish,'Intimidated?'\nMinor gameplay impact.,minecraft:mushroom_stew,larger and broader,2.4,2,1,1.33,1.56
+oversize1,Oversize,'Neat.'\nMedium gameplay impact.,minecraft:pumpkin_pie,oversized,3,2.5,1,1.62,1.62
+oversize2,Oversize II,'Sheesh.'\nMajor gameplay impact.,minecraft:cake,very oversized,3.5,3,1.2,1.92,1.92
+oversize3,Oversize III,'Yikes.'\nMajor gameplay impact.,minecraft:hay_block,extremely oversized,4,3.5,1.3,2.2,2.2

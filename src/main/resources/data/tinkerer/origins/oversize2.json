@@ -1,10 +1,10 @@
 {
-    "description": "'Sheesh.'\nMajor gameplay impact.",
-    "icon": "minecraft:cake",
-    "impact": 0,
-    "name": "Oversize II",
-    "order": 0,
-    "powers": [
-        "tinkerer:oversize2"
-    ]
+	"name": "Oversize II",
+	"description": "'Sheesh.'\\nMajor gameplay impact.",
+	"icon": "minecraft:cake",
+	"impact": 0,
+	"order": 0,
+	"powers": [
+		"tinkerer:oversize2"
+	]
 }
