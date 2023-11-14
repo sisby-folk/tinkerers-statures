@@ -51,7 +51,7 @@ def main():
                     origin_template["powers"][0] = origin_template["powers"][0].format(preset['id'])
                     origin_template["icon"] = origin_template["icon"].format(preset["icon"])
                     origin_template["name"] = origin_template["name"].format(preset["name"])
-                    origin_template["description"] = origin_template["description"].format(preset["description"])
+                    origin_template["description"] = origin_template["description"].format(preset["description"]).replace("Â§", "§")
                     origin_template["impact"] = 3 if block_width > 1 else 2 if block_sneak_height > 2 else 1 if block_height > 2 or block_sneak_height <= 1 else 0
                     origin_template["order"] = order
 

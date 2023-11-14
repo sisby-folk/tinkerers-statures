@@ -1,6 +1,6 @@
 {
 	"name": "Sized",
-	"description": "\\'This is fine too.\\'",
+	"description": "\u00a7oThis is fine too.",
 	"icon": "minecraft:milk_bucket",
 	"impact": 0,
 	"order": 100,
