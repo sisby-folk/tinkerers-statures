@@ -3,7 +3,7 @@
 	"description": "Half-Short",
 	"icon": "minecraft:honey_bottle",
 	"impact": 0,
-	"order": 0,
+	"order": 300,
 	"powers": [
 		"tinkerer:demishort"
 	]

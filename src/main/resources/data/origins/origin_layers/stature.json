@@ -16,7 +16,6 @@
 			"inverted": true
 		},
 		"origins": [
-			"tinkerer:unaffected",
 			"tinkerer:sized",
 			"tinkerer:hemidemishort",
 			"tinkerer:demishort",
@@ -30,7 +29,8 @@
 			"tinkerer:orcish",
 			"tinkerer:oversize1",
 			"tinkerer:oversize2",
-			"tinkerer:oversize3"
+			"tinkerer:oversize3",
+			"tinkerer:unaffected"
 		]
 	}],
 	"name": "Stature",

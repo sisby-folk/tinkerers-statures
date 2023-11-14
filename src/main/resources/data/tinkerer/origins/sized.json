@@ -3,7 +3,7 @@
 	"description": "\\'This is fine too.\\'",
 	"icon": "minecraft:milk_bucket",
 	"impact": 0,
-	"order": 0,
+	"order": 100,
 	"powers": [
 		"tinkerer:sized"
 	]

@@ -2,8 +2,8 @@
 	"name": "Oversize",
 	"description": "'Neat.'\\nMedium gameplay impact.",
 	"icon": "minecraft:pumpkin_pie",
-	"impact": 0,
-	"order": 0,
+	"impact": 2,
+	"order": 1100,
 	"powers": [
 		"tinkerer:oversize1"
 	]

@@ -1,9 +1,9 @@
 {
 	"name": "Taller",
-	"description": "'How's the weather down *there*?'\\nMinor gameplay impact.",
+	"description": "'How's the weather down *there*?'",
 	"icon": "minecraft:bread",
-	"impact": 0,
-	"order": 0,
+	"impact": 1,
+	"order": 900,
 	"powers": [
 		"tinkerer:taller"
 	]

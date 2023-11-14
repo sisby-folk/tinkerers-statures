@@ -3,7 +3,7 @@
 	"description": "3/4 Short",
 	"icon": "minecraft:splash_potion",
 	"impact": 0,
-	"order": 0,
+	"order": 400,
 	"powers": [
 		"tinkerer:semishort"
 	]

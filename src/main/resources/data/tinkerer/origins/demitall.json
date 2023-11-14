@@ -3,7 +3,7 @@
 	"description": "Half-Tall",
 	"icon": "minecraft:cookie",
 	"impact": 0,
-	"order": 0,
+	"order": 700,
 	"powers": [
 		"tinkerer:demitall"
 	]

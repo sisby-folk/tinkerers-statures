@@ -1,9 +1,9 @@
 {
 	"name": "Impish",
-	"description": "1.5x Short\\nMinor gameplay impact.",
+	"description": "1.5x Short",
 	"icon": "minecraft:water_bucket",
-	"impact": 0,
-	"order": 0,
+	"impact": 1,
+	"order": 600,
 	"powers": [
 		"tinkerer:impish"
 	]

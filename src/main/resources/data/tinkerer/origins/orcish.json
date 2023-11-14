@@ -1,9 +1,9 @@
 {
 	"name": "Orcish",
-	"description": "'Intimidated?'\\nMinor gameplay impact.",
+	"description": "'Intimidated?'",
 	"icon": "minecraft:mushroom_stew",
-	"impact": 0,
-	"order": 0,
+	"impact": 1,
+	"order": 1010,
 	"powers": [
 		"tinkerer:orcish"
 	]

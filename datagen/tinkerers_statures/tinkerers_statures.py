@@ -34,9 +34,15 @@ def main():
         with open("./template/power.json", "r") as power_template_file:
             power_template_json = json.load(power_template_file)
             with open("./data/presets.csv", "r") as preset_data_file:
+                order = 0
+                old_height = 0
+
                 for preset in [{k: v for k, v in row.items()} for row in csv.DictReader(preset_data_file, skipinitialspace=True)]:
                     origin_template = copy.deepcopy(origin_template_json)
                     power_template = copy.deepcopy(power_template_json)
+
+                    order = (round(order, -2) + 100) if old_height != float(preset["height"]) else order + 10
+                    old_height = float(preset["height"])
 
                     block_height = math.ceil(float(preset["height"]) * 1.8 * 10) / 10
                     block_sneak_height = math.ceil(float(preset["height"]) * 1.5 * 10) / 10
@@ -46,6 +52,8 @@ def main():
                     origin_template["icon"] = origin_template["icon"].format(preset["icon"])
                     origin_template["name"] = origin_template["name"].format(preset["name"])
                     origin_template["description"] = origin_template["description"].format(preset["description"])
+                    origin_template["impact"] = 3 if block_width > 1 else 2 if block_sneak_height > 2 else 1 if block_height > 2 or block_sneak_height <= 1 else 0
+                    origin_template["order"] = order
 
                     power_template["name"] = power_template["name"].format(preset["name"])
                     power_template["description"] = power_template["description"].format(

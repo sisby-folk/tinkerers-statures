@@ -1,9 +1,9 @@
 {
 	"name": "Oversize III",
-	"description": "'Yikes.'\\nMajor gameplay impact.",
+	"description": "'Yikes.'",
 	"icon": "minecraft:hay_block",
-	"impact": 0,
-	"order": 0,
+	"impact": 3,
+	"order": 1300,
 	"powers": [
 		"tinkerer:oversize3"
 	]
