@@ -1,6 +1,6 @@
 {
 	"name": "Demi-Tall",
-	"description": "You're slightly taller than average (105%)!\nHeight: 1.9 Blocks\nSneak Height: 1.6 Blocks\nWidth: 0.6 Blocks",
+	"description": "You're slightly taller than average (105%)!\nHeight: 1.9 Blocks\nSneak Height: 1.6 Blocks\nWidth: 0.7 Blocks",
 	"type": "origins:action_on_callback",
 	"entity_action_chosen": {
 		"type": "origins:and",

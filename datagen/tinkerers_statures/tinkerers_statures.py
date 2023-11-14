@@ -38,6 +38,10 @@ def main():
                     origin_template = copy.deepcopy(origin_template_json)
                     power_template = copy.deepcopy(power_template_json)
 
+                    block_height = math.ceil(float(preset["height"]) * 1.8 * 10) / 10
+                    block_sneak_height = math.ceil(float(preset["height"]) * 1.5 * 10) / 10
+                    block_width = math.ceil(float(preset["width"]) * 0.6 * 10) / 10
+
                     origin_template["powers"][0] = origin_template["powers"][0].format(preset['id'])
                     origin_template["icon"] = origin_template["icon"].format(preset["icon"])
                     origin_template["name"] = origin_template["name"].format(preset["name"])
@@ -47,12 +51,12 @@ def main():
                     power_template["description"] = power_template["description"].format(
                         preset["adjective"],
                         math.floor(float(preset["height"]) * 100),
-                        preset["descheight"],
-                        "" if float(preset["descheight"]) == 1 else "s",
-                        preset["descsneak"],
-                        "" if float(preset["descsneak"]) == 1 else "s",
-                        preset["descwidth"],
-                        " Exactly" if float(preset["descwidth"]) == 1 else "s"
+                        block_height,
+                        "" if block_height == 1 else "s",
+                        block_sneak_height,
+                        "" if block_sneak_height == 1 else "s",
+                        block_width,
+                        " Exactly" if block_width == 1 else "s"
                     )
                     dict_mutate(power_template["entity_action_chosen"]["actions"][0], "command", (lambda s: s.format(preset["height"])))
                     dict_mutate(power_template["entity_action_chosen"]["actions"][1], "command", (lambda s: s.format(preset["width"])))

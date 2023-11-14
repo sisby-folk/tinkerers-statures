@@ -1,6 +1,6 @@
 {
 	"name": "Taller",
-	"description": "You're tall (120%)!\nHeight: 2.2 Blocks\nSneak Height: 1.8 Blocks\nWidth: 0.7 Blocks",
+	"description": "You're tall (120%)!\nHeight: 2.2 Blocks\nSneak Height: 1.8 Blocks\nWidth: 0.8 Blocks",
 	"type": "origins:action_on_callback",
 	"entity_action_chosen": {
 		"type": "origins:and",

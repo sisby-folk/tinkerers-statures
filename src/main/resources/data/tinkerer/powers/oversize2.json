@@ -1,6 +1,6 @@
 {
 	"name": "Oversize II",
-	"description": "You're very oversized (192%)!\nHeight: 3.5 Blocks\nSneak Height: 3 Blocks\nWidth: 1.2 Blocks",
+	"description": "You're very oversized (192%)!\nHeight: 3.5 Blocks\nSneak Height: 2.9 Blocks\nWidth: 1.2 Blocks",
 	"type": "origins:action_on_callback",
 	"entity_action_chosen": {
 		"type": "origins:and",

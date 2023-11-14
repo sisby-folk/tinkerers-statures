@@ -1,6 +1,6 @@
 {
 	"name": "{}",
-	"description": "You're {} ({}%)!\nHeight: {} Block{}\nSneak Height: {} Block{}\nWidth: {} Block{}",
+	"description": "You're {} ({}%)!\nHeight: {:g} Block{}\nSneak Height: {:g} Block{}\nWidth: {:g} Block{}",
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
 		"type": "origins:and",
