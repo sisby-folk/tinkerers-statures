@@ -1,10 +1,10 @@
 {
-	"powers": [
-		"{{ power }}"
-	],
-	"icon": "{{ Icon }}",
-	"order": 0,
+	"name": "{}",
+	"description": "{}",
+	"icon": "{}",
 	"impact": 0,
-	"name": "{{ Name }}",
-	"description": "{{ Description }}"
+	"order": 0,
+	"powers": [
+		"tinkerer:{}"
+	]
 }
