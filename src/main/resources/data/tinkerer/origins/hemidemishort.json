@@ -2,7 +2,12 @@
 	"name": "HemiDemi-Short",
 	"description": "1/4 Short",
 	"icon": {
-		"id": "minecraft:lingering_potion"
+		"id": "minecraft:lingering_potion",
+		"components": {
+			"potion_contents": {
+				"custom_color": 16056565
+			}
+		}
 	},
 	"impact": 0,
 	"order": 200,

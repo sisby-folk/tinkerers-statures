@@ -2,7 +2,12 @@
 	"name": "Demi-Short",
 	"description": "Half-Short",
 	"icon": {
-		"id": "minecraft:potion"
+		"id": "minecraft:potion",
+		"components": {
+			"potion_contents": {
+				"custom_color": 16056565
+			}
+		}
 	},
 	"impact": 0,
 	"order": 300,
