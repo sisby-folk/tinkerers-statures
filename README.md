@@ -3,7 +3,7 @@
 
 <center>
 Multiplayer-friendly cosmetic player size, height and width!<br/>
-Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>.
+Requires <a href="https://modrinth.com/mod/origins">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>.
 </center>
 
 ---	
