@@ -1,7 +1,9 @@
 {
 	"name": "Oversize III",
 	"description": "\u00a7oYikes.",
-	"icon": "minecraft:hay_block",
+	"icon": {
+		"id": "minecraft:hay_block"
+	},
 	"impact": 3,
 	"order": 1300,
 	"powers": [

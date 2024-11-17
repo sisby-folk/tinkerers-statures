@@ -1,7 +1,9 @@
 {
 	"name": "Oversize",
 	"description": "\u00a7oNeat.",
-	"icon": "minecraft:pumpkin_pie",
+	"icon": {
+		"id": "minecraft:pumpkin_pie"
+	},
 	"impact": 2,
 	"order": 1100,
 	"powers": [

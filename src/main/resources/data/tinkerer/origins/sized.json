@@ -1,7 +1,9 @@
 {
 	"name": "Sized",
 	"description": "\u00a7oThis is fine too.",
-	"icon": "minecraft:milk_bucket",
+	"icon": {
+		"id": "minecraft:milk_bucket"
+	},
 	"impact": 0,
 	"order": 100,
 	"powers": [

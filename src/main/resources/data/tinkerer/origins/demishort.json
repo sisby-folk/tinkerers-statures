@@ -1,7 +1,9 @@
 {
 	"name": "Demi-Short",
 	"description": "Half-Short",
-	"icon": "minecraft:potion",
+	"icon": {
+		"id": "minecraft:potion"
+	},
 	"impact": 0,
 	"order": 300,
 	"powers": [

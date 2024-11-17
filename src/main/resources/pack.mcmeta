@@ -1,6 +1,11 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "[Origins] Adds Pehkui Sizes to Origins"
-  }
+	"pack": {
+		"name": "Tinkerer's Statures",
+		"id": "tinkerers_statures",
+		"pack_format": 10,
+		"authors": [
+			"Sisby folk"
+		],
+		"description": "[Origins] Adds a layer of handmade Pehkui scale presets to Origins."
+	}
 }

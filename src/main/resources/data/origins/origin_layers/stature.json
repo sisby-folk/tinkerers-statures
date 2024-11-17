@@ -3,44 +3,24 @@
 	"order": 20,
 	"exclude_random": [],
 	"origins": [
-		{
-			"condition": {
-				"type": "origins:or",
-				"conditions": [
-					{
-						"type": "origins:origin",
-						"origin": "extraorigins:inchling",
-						"layer": "origins:origin"
-					},
-					{
-						"type": "origins:origin",
-						"origin": "grounded_origins:moth",
-						"layer": "origins:origin"
-					}
-				],
-				"inverted": true
-			},
-			"origins": [
-				"tinkerer:sized",
-				"tinkerer:hemidemishort",
-				"tinkerer:demishort",
-				"tinkerer:demistout",
-				"tinkerer:semishort",
-				"tinkerer:short",
-				"tinkerer:stout",
-				"tinkerer:impish",
-				"tinkerer:demitall",
-				"tinkerer:demilanky",
-				"tinkerer:tall",
-				"tinkerer:lanky",
-				"tinkerer:taller",
-				"tinkerer:tallest",
-				"tinkerer:orcish",
-				"tinkerer:oversize1",
-				"tinkerer:oversize2",
-				"tinkerer:oversize3",
-				"tinkerer:unaffected"
-			]
-		}
+		"tinkerer:sized",
+		"tinkerer:hemidemishort",
+		"tinkerer:demishort",
+		"tinkerer:demistout",
+		"tinkerer:semishort",
+		"tinkerer:short",
+		"tinkerer:stout",
+		"tinkerer:impish",
+		"tinkerer:demitall",
+		"tinkerer:demilanky",
+		"tinkerer:tall",
+		"tinkerer:lanky",
+		"tinkerer:taller",
+		"tinkerer:tallest",
+		"tinkerer:orcish",
+		"tinkerer:oversize1",
+		"tinkerer:oversize2",
+		"tinkerer:oversize3",
+		"tinkerer:unaffected"
 	]
 }

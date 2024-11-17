@@ -1,7 +1,9 @@
 {
 	"name": "{}",
 	"description": "{}",
-	"icon": "{}",
+	"icon": {
+		"id": "{}"
+	},
 	"impact": 0,
 	"order": 0,
 	"powers": [

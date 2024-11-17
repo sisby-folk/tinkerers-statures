@@ -54,10 +54,10 @@ def main():
             block_sneak_height = math.ceil(float(preset["height"]) * 1.5 * 10) / 10
             block_width = math.ceil(float(preset["width"]) * 0.6 * 10) / 10
 
-            layer_template_json["origins"][0]["origins"].insert(-1, "tinkerer:{}".format(preset['id']))
+            layer_template_json["origins"].insert(-1, "tinkerer:{}".format(preset['id']))
 
             origin_template["powers"][0] = origin_template["powers"][0].format(preset['id'])
-            origin_template["icon"] = origin_template["icon"].format(preset["icon"])
+            origin_template["icon"]["id"] = origin_template["icon"]["id"].format(preset["icon"])
             origin_template["name"] = origin_template["name"].format(preset["name"])
             origin_template["description"] = origin_template["description"].format(preset["description"]).replace("Â§", "§")
             origin_template["impact"] = 3 if block_width > 1 else 2 if block_sneak_height > 2 else 1 if block_height > 2 or block_sneak_height <= 1 else 0

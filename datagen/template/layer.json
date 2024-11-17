@@ -3,26 +3,6 @@
 	"order": 20,
 	"exclude_random": [],
 	"origins": [
-		{
-			"condition": {
-				"type": "origins:or",
-				"conditions": [
-					{
-						"type": "origins:origin",
-						"origin": "extraorigins:inchling",
-						"layer": "origins:origin"
-					},
-					{
-						"type": "origins:origin",
-						"origin": "grounded_origins:moth",
-						"layer": "origins:origin"
-					}
-				],
-				"inverted": true
-			},
-			"origins": [
-				"tinkerer:unaffected"
-			]
-		}
+		"tinkerer:unaffected"
 	]
 }

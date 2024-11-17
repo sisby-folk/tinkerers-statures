@@ -1,0 +1,42 @@
+modLoader = 'lowcodefml'
+loaderVersion = "[4,)"
+license = "${license}"
+issueTrackerURL = "${issues}"
+showAsResourcePack = false
+
+[[mods]]
+modId = "${modId}"
+version = "${version}"
+displayName = "${modName}"
+description = '''${modDescription}'''
+authors = "${members}"
+displayURL = "${homepage}"
+logoFile = "assets/${modId}/icon.png"
+
+[[dependencies.${ modId }]]
+modId = "neoforge"
+type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${ modId }]]
+modId = "minecraft"
+type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${ modId }]]
+modId = "origins"
+type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${ modId }]]
+modId = "pehkui"
+mandatory = true
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"

@@ -4,7 +4,7 @@ build/
 out/
 classes/
 
-# Quilt Loom
+# Loom
 run/
 
 # Eclipse
@@ -26,6 +26,5 @@ bin/
 # macOS
 *.DS_Store
 
-# datagen
-datagen/out/
-/venv/
+# Changelog
+CHANGELOG.md
