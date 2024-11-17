@@ -2,7 +2,7 @@
 	"name": "Stout",
 	"description": "Short-Height",
 	"icon": {
-		"id": "minecraft:experience_bottle"
+		"item": "minecraft:experience_bottle"
 	},
 	"impact": 0,
 	"order": 510,

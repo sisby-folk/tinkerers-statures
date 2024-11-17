@@ -2,7 +2,7 @@
 	"name": "Semi-Short",
 	"description": "3/4 Short",
 	"icon": {
-		"id": "minecraft:dragon_breath"
+		"item": "minecraft:dragon_breath"
 	},
 	"impact": 0,
 	"order": 400,

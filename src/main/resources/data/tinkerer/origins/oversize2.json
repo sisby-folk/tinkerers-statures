@@ -2,7 +2,7 @@
 	"name": "Oversize II",
 	"description": "\u00a7oSheesh.",
 	"icon": {
-		"id": "minecraft:cake"
+		"item": "minecraft:cake"
 	},
 	"impact": 3,
 	"order": 1200,

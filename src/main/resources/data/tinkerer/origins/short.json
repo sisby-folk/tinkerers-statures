@@ -2,7 +2,7 @@
 	"name": "Short",
 	"description": "\u00a7oIt's a bit drafty actually.",
 	"icon": {
-		"id": "minecraft:splash_potion"
+		"item": "minecraft:splash_potion"
 	},
 	"impact": 0,
 	"order": 500,

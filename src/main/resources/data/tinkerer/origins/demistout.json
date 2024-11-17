@@ -2,7 +2,7 @@
 	"name": "Demi-Stout",
 	"description": "Half-Short-Height",
 	"icon": {
-		"id": "minecraft:honey_bottle"
+		"item": "minecraft:honey_bottle"
 	},
 	"impact": 0,
 	"order": 310,

@@ -2,7 +2,7 @@
 	"name": "Demi-Lanky",
 	"description": "Half-Tall-Height",
 	"icon": {
-		"id": "minecraft:golden_carrot"
+		"item": "minecraft:golden_carrot"
 	},
 	"impact": 0,
 	"order": 710,

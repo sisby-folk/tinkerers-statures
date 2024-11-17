@@ -2,7 +2,7 @@
 	"name": "Demi-Tall",
 	"description": "Half-Tall",
 	"icon": {
-		"id": "minecraft:carrot"
+		"item": "minecraft:carrot"
 	},
 	"impact": 0,
 	"order": 700,
