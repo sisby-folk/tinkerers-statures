@@ -2,7 +2,7 @@
 	"name": "{}",
 	"description": "{}",
 	"icon": {
-		"item": "{}"
+		"id": "{}"
 	},
 	"impact": 0,
 	"order": 0,

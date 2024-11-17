@@ -2,7 +2,7 @@
 	"name": "Oversize",
 	"description": "\u00a7oNeat.",
 	"icon": {
-		"item": "minecraft:pumpkin_pie"
+		"id": "minecraft:pumpkin_pie"
 	},
 	"impact": 2,
 	"order": 1100,

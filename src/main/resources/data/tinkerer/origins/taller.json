@@ -2,7 +2,7 @@
 	"name": "Taller",
 	"description": "\u00a7oHow's the weather down \u00a7nthere\u00a7r\u00a7o?",
 	"icon": {
-		"item": "minecraft:bread"
+		"id": "minecraft:bread"
 	},
 	"impact": 1,
 	"order": 900,

@@ -2,7 +2,7 @@
 	"name": "Lanky",
 	"description": "Tall-Height",
 	"icon": {
-		"item": "minecraft:golden_apple"
+		"id": "minecraft:golden_apple"
 	},
 	"impact": 0,
 	"order": 810,

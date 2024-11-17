@@ -2,7 +2,7 @@
 	"name": "Unaffected",
 	"description": "The default size of your chosen origin!",
 	"icon": {
-		"item": "minecraft:glass_bottle"
+		"id": "minecraft:glass_bottle"
 	},
 	"impact": 0,
 	"order": 10000,
