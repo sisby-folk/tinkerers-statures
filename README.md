@@ -11,7 +11,7 @@ Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a 
 Tinkerer's Statures adds a collection of 18 player scale presets to choose from alongside your origin.
 
 - Presets utilize Pehkui's `width` and `height` scales, which scale the player visually and change their hitbox.<br/>
-- Each stature is designed as an RPG-style character variation, without additional gameplay changes.<br/>
+- Each stature is designed as a subtle RPG-style variation, without additional gameplay changes.<br/>
 - The largest statures struggle with doorways and tunnels, so get creative or try out [Dramatic Doors](https://modrinth.com/mod/dramatic-doors).
 - In-game, statures are sorted from most subtle to least subtle, to keep things quick and simple!
 
